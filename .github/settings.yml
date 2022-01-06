@@ -1,0 +1,5 @@
+repository:
+  name: "renovate-test"
+  description: "Testing Renovate"
+  homepage: "https://rwxd.github.io/renovate-test/"
+  topics: ""
