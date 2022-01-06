@@ -1,0 +1,5 @@
+roles:
+  - src: git@github.com:rwxd/ansible-role-dev-environment.git
+    version: master
+    scm: git
+
